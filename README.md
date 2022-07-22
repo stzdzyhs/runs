@@ -4,7 +4,7 @@ A light-weight nodejs package to run Promise/Runnable in series
 ### Usage
 In many senarious, it needs to exec promises in a list one by one.
 Basicly, this lib is based on Promise, and encapsulated a promise what to do in a 
-Runnable class, override Runnable.run in decent classes.
+Runnable class, override Runnable.run in derived classes.
 
 first, create a Runnable list, e.g:
 ```js
