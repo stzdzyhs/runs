@@ -1,0 +1,22 @@
+{
+    "name": "@stzdzyhs/runs",
+    "version": "1.0.0",
+    "description": "A light-weight nodejs package to run Promise/Runnable in series",
+    "main": "runs.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/stzdzyhs/runs.git"
+    },
+    "keywords": [
+      "runs"
+    ],
+    "author": "chenzero",
+    "license": "free",
+    "bugs": {
+      "url": "https://github.com/stzdzyhs/runs/issues"
+    },
+    "homepage": "https://github.com/stzdzyhs/runs"
+  }
