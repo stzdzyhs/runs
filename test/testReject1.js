@@ -20,7 +20,7 @@ function testReject1() {
         },
 
         (err, idx)=> {
-            assert.assertTrue(idx===2);
+            assert(idx===2);
             console.log("testReject1 OK");
         }
     );
