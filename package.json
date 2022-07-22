@@ -1,6 +1,6 @@
 {
   "name": "@chenzero/runs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light-weight nodejs package to run Promise/Runnable in series",
   "main": "runs.js",
   "scripts": {
